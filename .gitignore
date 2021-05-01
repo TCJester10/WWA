@@ -1,3 +1,11 @@
+#Adding congfig.py
+config.py
+
+#Adding additional files.
+API_practice.ipynb
+API_Practice!.ipynb
+random_number.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +13,8 @@ __pycache__/
 
 # C extensions
 *.so
+
+
 
 # Distribution / packaging
 .Python
