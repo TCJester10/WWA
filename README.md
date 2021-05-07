@@ -4,7 +4,7 @@
 # Overview
 Using API data gathered from world weather, I created a simple vacation plan using the weather data available at four sites. Over the course of this module, I grew comfortable with using API calls, and learned how to parse through large JSON files. 
 
-#Process
+# Process
 * First, I got data from world weather using an API call. 
 * After Parsing through that data by setting the criteria I wanted 
 ** This data was temperature (selected 60-80 degrees), hotel lodging, and within a congruous landmass.
