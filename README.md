@@ -2,7 +2,7 @@
 
 
 # Overview
-Using API data gathered from world weather, I created a simple vacation plan using the weather data available at four sites. Over the course of this module, I grew comfortable with using API calls, and learned how to parse through large JSON files. 
+Using API data gathered from world weather, I created a simple vacation plan using the weather data available at four sites. Over the course of this project, I grew comfortable with using API calls, and learned how to parse through large JSON files. 
 
 # Process
 * First, I got data from world weather using an API call. 
